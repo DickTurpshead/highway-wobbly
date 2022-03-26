@@ -21,15 +21,23 @@ pub_year: 2021
 github_username: hanwendong1
 
 # add the full url for the github repository
-repo: "https://github.com/hanwendong1/soil210"
+
+#####repo: "https://github.com/hanwendong1/soil210"
+repo: "https://github.com/DickTurpshead/highway-wobbly"
 
 # site urls
 # add the url for the domain,
-# on gh-pages follow the pattern: https://username.github.io 
-url: https://hanwendong1.github.io
+# on gh-pages follow the pattern: https://username.github.io
+
+#####url: https://hanwendong1.github.io
+url: https://github.com/DickTurpshead
+###>>>url: https://DickTurpshead.github.io
+
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /soil210
+
+#####baseurl: /soil210
+baseurl: /highway-wobbly
 
 # add search box to footer?
 search: true
