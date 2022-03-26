@@ -18,12 +18,12 @@ featured-image: "/images/uidaho-workshop.jpg"
 author: Hanwen Dong
 Contributor: Jeremy Kenyon, Evan Will
 pub_year: 2021
-github_username: hanwendong1
-
+#####github_username: hanwendong1
+github_username: dickturpshead
 # add the full url for the github repository
 
 #####repo: "https://github.com/hanwendong1/soil210"
-repo: "https://github.com/DickTurpshead/highway-wobbly"
+repo: "https://github.com/dickturpshead/highway-wobbly"
 
 # site urls
 # add the url for the domain,
