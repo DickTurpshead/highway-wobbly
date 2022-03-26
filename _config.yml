@@ -30,8 +30,8 @@ repo: "https://github.com/DickTurpshead/highway-wobbly"
 # on gh-pages follow the pattern: https://username.github.io
 
 #####url: https://hanwendong1.github.io
-url: https://github.com/DickTurpshead
-###>>>url: https://DickTurpshead.github.io
+###>>>url: https://github.com/DickTurpshead
+url: https://DickTurpshead.github.io
 
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
