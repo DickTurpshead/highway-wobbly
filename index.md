@@ -7,10 +7,10 @@ layout: default
 
 {% include figure.html img="HD_portrait.jpg" alt="portrait of Hanwen Dong" caption="portrait of Hanwen Dong (credit: Joe Pallen)" width="75%" %}
 
-[//]: <> (![my-image](https://dickturpshead.github.io/highway-wobbly/images/HD_portrait.jpg)  )
+![my-image](https://dickturpshead.github.io/highway-wobbly/images/empty-freezer-sm.jpg) 
 
-<img src="dickturpshead.github.io/highway-wobbly/images/HD_portrait.jpg">
-[//]: <> (will this work ??)
+<img src="dickturpshead.github.io/highway-wobbly/images/empty-freezer-sm.jpg" alt="drawing" width="200"/>>
+[comment]: <> (this doesnt work as its html ???)
 # my image
 
 My name is Hanwen Dong and I am the <a href="https://www.lib.uidaho.edu/about/liaisons.html" target="_blank" rel="noopener">liaison librarian for College of Agricultural & Life Sciences</a>. I welcome you to contact me or the library to ask for help.
