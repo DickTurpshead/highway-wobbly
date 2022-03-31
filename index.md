@@ -9,7 +9,8 @@ layout: default
 
 ![my-image](https://dickturpshead.github.io/highway-wobbly/images/empty-freezer-sm.jpg) 
 
-<img src="dickturpshead.github.io/highway-wobbly/images/empty-freezer-sm.jpg" alt="drawing" width="200"/>>
+<img src="dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="drawing" width="200"/>
+
 [comment]: <> (this doesnt work as its html ???)
 # my image
 
