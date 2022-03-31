@@ -42,7 +42,7 @@ raw Markdown line up prettily. You can also use inline Markdown.
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
-1 | 2 | ![my-image](https://dickturpshead.github.io/highway-wobbly/images/empty-freezer-sm.jpg)
+1 | 2 | <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="40"/>
 
 
 
