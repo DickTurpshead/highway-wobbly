@@ -5,11 +5,11 @@ layout: default
 
 # Hello and Welcome! from Dick Turpshead
 
-{% include figure.html img="HD_portrait.jpg" alt="portrait of Hanwen Dong" caption="portrait of Hanwen Dong (credit: Joe Pallen)" width="75%" %}
+{% include figure.html img="HD_portrait.jpg" alt="portrait of Hanwen Dong" caption="portrait of Hanwen Dong (credit: Joe Pallen)" width="55%" %}
 
-![my-image](https://dickturpshead.github.io/highway-wobbly/images/empty-freezer-sm.jpg) 
+![my-image](https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg) 
 
-<img src="dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="drawing" width="200"/>
+<img src="dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="150"/>
 
 [comment]: <> (this doesnt work as its html ???)
 # my image
