@@ -21,7 +21,7 @@ layout: default
 
 
 
-![my-image](https://dickturpshead.github.io/highway-wobbly/images/empty-freezer-sm.jpg)
+![my-image](https://dickturpshead.github.io/highway-wobbly/images/empty-freezer-sm.jpg) ![my-image](https://dickturpshead.github.io/highway-wobbly/images/empty-freezer-sm.jpg)
 
 # my MD image try
 
@@ -43,6 +43,13 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="40"/>
+
+
+
+
+
+
+
 
 
 
