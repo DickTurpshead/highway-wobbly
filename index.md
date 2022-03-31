@@ -12,7 +12,7 @@ layout: default
 
 # my image
 
-<img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="500"/>
+<img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width=50%/>
 
 [comment]: <> (try %age)
 # my image try
