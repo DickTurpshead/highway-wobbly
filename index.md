@@ -33,7 +33,7 @@ layout: default
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    ![my-image](https://dickturpshead.github.io/highway-wobbly/images/empty-freezer-sm.jpg) |
+| zebra stripes | are neat      |   {% include figure.html img="HD_portrait.jpg" alt="portrait of Hanwen Dong" caption="portrait of Hanwen Dong (credit: Joe Pallen)" width="10%" %} |
 
 There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the 
