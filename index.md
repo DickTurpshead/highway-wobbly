@@ -63,9 +63,11 @@ Markdown | Less | Pretty
 <br/>
 <br/>
 
-<p float="left">
+<p float="centre">
   <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width="150" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width="150" /> 
+  &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width="150" />
 </p>
 
