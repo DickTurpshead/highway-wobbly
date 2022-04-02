@@ -41,11 +41,11 @@ layout: default
 
 
 
-:| Tables        | Are           | Cool  |:
-:| ------------- |:-------------:| -----:|:
-:| col 3 is      | right-aligned | $1600 |:
-:| col 2 is      | centered      |   $12 |:
-:| <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="150"/> | <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="150"/>      |  <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="150"/> |:
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="150"/> | <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="150"/>      |  <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="150"/> |
 
 There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the 
@@ -58,6 +58,16 @@ Markdown | Less | Pretty
 4 | sm-sm md-code | ![my-image](https://dickturpshead.github.io/highway-wobbly/images/empty-freezer-sm-sm.jpg)
 
 
+<br/>
+<br/>
+<br/>
+<br/>
+
+<p float="left">
+  <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpgg" width="100" />
+  <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width="100" /> 
+  <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width="100" />
+</p>
 
 
 
