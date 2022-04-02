@@ -41,11 +41,11 @@ layout: default
 
 
 
-| Tables        | Are           | Cool  |
+:| Tables        | Are           | Cool  |:
 :| ------------- |:-------------:| -----:|:
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="150"/> | <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="150"/>      |  <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="150"/>
+:| col 3 is      | right-aligned | $1600 |:
+:| col 2 is      | centered      |   $12 |:
+:| <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="150"/> | <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="150"/>      |  <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="150"/> |:
 
 There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the 
