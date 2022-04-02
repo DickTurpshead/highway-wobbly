@@ -84,9 +84,9 @@ Markdown | Less | Pretty
      <td>third col</td>
   </tr>
   <tr>
-   <td><img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width="150" </td>
-   <td><img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width="150" </td> 
-   <td><img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width="150" </td>
+    <td><img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width="150"</td>
+    <td><img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width="150"</td> 
+    <td><img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width="150"</td>
   </tr>
  </table>
 
