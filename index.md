@@ -42,7 +42,7 @@ layout: default
 
 
 | Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+:| ------------- |:-------------:| -----:|:
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="150"/> | <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="150"/>      |  <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="150"/>
@@ -54,8 +54,7 @@ raw Markdown line up prettily. You can also use inline Markdown.
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
-1 | fullsize html-code 
-w=150 | <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="150"/>
+1 | fullsize html-code w=150 | <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="150"/>
 4 | sm-sm md-code | ![my-image](https://dickturpshead.github.io/highway-wobbly/images/empty-freezer-sm-sm.jpg)
 
 
