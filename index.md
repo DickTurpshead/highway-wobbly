@@ -106,15 +106,34 @@ Markdown | Less | Pretty
      <td>third col</td>
   </tr>
   <tr>
-    <td><img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width=200</td>
-    <td><img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width=200</td>
-    <td><img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width=200</td>
+    <td><img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width=200 height=100></td>
+    <td><img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width=200 height=100></td>
+    <td><img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width=200 height=100></td>
   </tr>
  </table>
 
 
+[comment]: <> must have the height
 
+<br/>
+<br/>
+<br/>
+<br/>
 
+#### Flutter App Screenshots try using hd picture code
+
+<table>
+  <tr>
+    <td>First col</td>
+     <td>second col</td>
+     <td>third col</td>
+  </tr>
+  <tr>
+    <td>{% include figure.html img="HD_portrait.jpg" alt="portrait of Hanwen Dong" caption="portrait of Hanwen Dong (credit: Joe Pallen)" width="50%" %}</td>
+    <td>{% include figure.html img="HD_portrait.jpg" alt="portrait of Hanwen Dong" caption="portrait of Hanwen Dong (credit: Joe Pallen)" width="50%" %}</td>
+    <td>{% include figure.html img="HD_portrait.jpg" alt="portrait of Hanwen Dong" caption="portrait of Hanwen Dong (credit: Joe Pallen)" width="50%" %}</td>
+  </tr>
+ </table>
 
 
 
