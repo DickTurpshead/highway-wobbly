@@ -10,8 +10,9 @@ layout: default
 <br/>
 <br/>
 
-<img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="300"/>
-<img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="300"/>
+<img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="200"/>
+<img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="200"/>
+<img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="200"/>
 
 # my working image
 
@@ -40,7 +41,7 @@ layout: default
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |   
+| zebra stripes | are neat      |  <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" alt="fridges in Coles" width="200"/>
 
 There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the 
