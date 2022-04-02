@@ -71,6 +71,10 @@ Markdown | Less | Pretty
   <img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width="150" />
 </p>
 
+<br/>
+<br/>
+<br/>
+<br/>
 #### Flutter App Screenshots
 
 <table>
@@ -81,9 +85,7 @@ Markdown | Less | Pretty
   </tr>
   <tr>
    <td><img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width="150" </td>
-   &nbsp; &nbsp; &nbsp;
    <td><img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width="150" </td> 
-   &nbsp; &nbsp; &nbsp;
    <td><img src="https://dickturpshead.github.io/highway-wobbly/images/empty-freezer.jpg" width="150" </td>
   </tr>
  </table>
